@@ -73,9 +73,9 @@ Turning complex problems into clean, scalable solutions with **React.js**, **Nod
 <div align="left">
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jvictorjy&theme=bear&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats-woad-rho-54.vercel.app/api?username=jvictorjy&theme=bear&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jvictorjy&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorjy&theme=bear&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats-woad-rho-54.vercel.app/api/top-langs/?username=jvictorjy&theme=bear&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
